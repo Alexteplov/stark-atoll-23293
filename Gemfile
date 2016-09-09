@@ -6,4 +6,5 @@ gem 'rails',"5.0.0.1"
 gem 'jquery-rails', "~> 4.2.1"
 gem 'turbolinks'
 gem 'uglifier'
+gem 'coffee-script', '~> 2.4', '>= 2.4.1'
 ruby '2.3.1'
