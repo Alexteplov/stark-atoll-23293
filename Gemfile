@@ -7,4 +7,5 @@ gem 'jquery-rails', "~> 4.2.1"
 gem 'turbolinks'
 gem 'uglifier'
 gem 'coffee-script', '~> 2.4', '>= 2.4.1'
+gem 'sass', '~> 3.4', '>= 3.4.22'
 ruby '2.3.1'
